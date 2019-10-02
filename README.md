@@ -1,5 +1,5 @@
 # Automated-Fact-Checking-System
-Simple implementation of an end-to-end system capable of fact checking and fake news detection.
+Simple implementation of an end-to-end system (tested on Google Colab) capable of fact checking and fake news detection.
 
 The pipeline is composed of multiple tasks:
 1) Check Fact Checking Worthiness
